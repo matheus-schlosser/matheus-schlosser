@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Matheus
 I'm a Back-end developer and technology enthusiast. I love to solve problems, share knowledge, bring fresh ideas and have fun while programming.
 
-I have professional experience working with **Node.js with Typescript**. But I also have experience with **Elixir, Python and Vue.js**.
+I have professional experience working with **Elixir**. But I also have experience with **Node.js with Typescript and Vue.js**.
 
 Learning something new every day about this technologies. I am interested in best development practices, design/architecture, tests and agile methodologies.
 
